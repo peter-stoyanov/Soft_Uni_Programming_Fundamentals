@@ -18,11 +18,11 @@ namespace Comparing_doubles
 
             if (Math.Abs(a- b) < eps)
             {
-                Console.WriteLine("true");
+                Console.WriteLine("True");
             }
             else
             {
-                Console.WriteLine("false");
+                Console.WriteLine("False");
             }
 
             

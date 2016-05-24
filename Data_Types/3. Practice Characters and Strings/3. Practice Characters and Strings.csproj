@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{81AA377A-E0B7-4EA4-9339-DE3827698CFF}</ProjectGuid>
+    <ProjectGuid>{9ADEABB8-3736-49AE-B4C9-E24EE1DAF80F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_10.Centuries_to_Nanoseconds</RootNamespace>
-    <AssemblyName>_10.Centuries_to_Nanoseconds</AssemblyName>
+    <RootNamespace>_3.Practice_Characters_and_Strings</RootNamespace>
+    <AssemblyName>_3.Practice_Characters_and_Strings</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="10. Centuries to Nanoseconds.cs" />
+    <Compile Include="3. Practice Characters and Strings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
