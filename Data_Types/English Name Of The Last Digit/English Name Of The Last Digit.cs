@@ -11,17 +11,17 @@ namespace English_Name_Of_The_Last_Digit
         static void Main(string[] args)
         {
 
-            ulong input = ulong.Parse(Console.ReadLine());
+            long input = long.Parse(Console.ReadLine());
 
             Console.WriteLine(LastDigit(input));
             
                          
         }
 
-        static string LastDigit(ulong x)
+        static string LastDigit(long x)
         {
             string lastLetter = "";
-            ulong lastDigit = x % 10;
+            long lastDigit = (long)(Math.Abs((double)(x % 10)));
             switch (lastDigit)
             {
                 case 0: lastLetter = "zero"; break;

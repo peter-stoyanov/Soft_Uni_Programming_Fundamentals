@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Real Numbers", "Strings_Dict_Lambda_LINQ\Count Real Numbers.csproj", "{A1306042-BE38-4304-96C8-1B305D35187E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Odd Occurrences", "7. Odd Occurrences\7. Odd Occurrences.csproj", "{0F1BD136-AE06-4AA0-A988-9C533DB301BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Short Words Sorted", "Short Words Sorted\Short Words Sorted.csproj", "{1D1E0F6B-A22F-4527-86C1-6D94CFBA333B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fold and Sum Smart", "Fold and Sum Smart\Fold and Sum Smart.csproj", "{BEE663B3-6197-4482-B35F-C480A073A1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Reverse String", "2. Reverse String\2. Reverse String.csproj", "{64716576-DC72-4050-8ECE-4CD423EFCC93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Fit String in 20 Chars", "2. Fit String in 20 Chars\2. Fit String in 20 Chars.csproj", "{7BA64D69-89C9-4F8D-A6FC-1065C018542E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Censor Your Email Address", "3. Censor Your Email Address\3. Censor Your Email Address.csproj", "{C3EF2714-1586-454C-9F17-3F6E7596D31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Extract Sentences by Keyword", "4. Extract Sentences by Keyword\4. Extract Sentences by Keyword.csproj", "{C727CF63-D17B-4426-8B33-F27F21B69E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URL Parser", "URL Parser\URL Parser.csproj", "{81972A8F-4D41-49E3-A6C2-275C601510CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To Uppercase", "To Uppercase\To Uppercase.csproj", "{D0346D28-A472-4657-8036-7841068DD190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Common Strings", "10. Common Strings\10. Common Strings.csproj", "{009AE632-8B3E-47DF-A397-3CD01603F61E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1306042-BE38-4304-96C8-1B305D35187E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1306042-BE38-4304-96C8-1B305D35187E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1306042-BE38-4304-96C8-1B305D35187E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1306042-BE38-4304-96C8-1B305D35187E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1BD136-AE06-4AA0-A988-9C533DB301BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1BD136-AE06-4AA0-A988-9C533DB301BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1BD136-AE06-4AA0-A988-9C533DB301BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1BD136-AE06-4AA0-A988-9C533DB301BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1E0F6B-A22F-4527-86C1-6D94CFBA333B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1E0F6B-A22F-4527-86C1-6D94CFBA333B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1E0F6B-A22F-4527-86C1-6D94CFBA333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1E0F6B-A22F-4527-86C1-6D94CFBA333B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE663B3-6197-4482-B35F-C480A073A1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE663B3-6197-4482-B35F-C480A073A1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE663B3-6197-4482-B35F-C480A073A1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE663B3-6197-4482-B35F-C480A073A1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64716576-DC72-4050-8ECE-4CD423EFCC93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64716576-DC72-4050-8ECE-4CD423EFCC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64716576-DC72-4050-8ECE-4CD423EFCC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64716576-DC72-4050-8ECE-4CD423EFCC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA64D69-89C9-4F8D-A6FC-1065C018542E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA64D69-89C9-4F8D-A6FC-1065C018542E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA64D69-89C9-4F8D-A6FC-1065C018542E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA64D69-89C9-4F8D-A6FC-1065C018542E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3EF2714-1586-454C-9F17-3F6E7596D31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EF2714-1586-454C-9F17-3F6E7596D31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EF2714-1586-454C-9F17-3F6E7596D31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EF2714-1586-454C-9F17-3F6E7596D31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C727CF63-D17B-4426-8B33-F27F21B69E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C727CF63-D17B-4426-8B33-F27F21B69E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C727CF63-D17B-4426-8B33-F27F21B69E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C727CF63-D17B-4426-8B33-F27F21B69E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81972A8F-4D41-49E3-A6C2-275C601510CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81972A8F-4D41-49E3-A6C2-275C601510CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81972A8F-4D41-49E3-A6C2-275C601510CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81972A8F-4D41-49E3-A6C2-275C601510CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0346D28-A472-4657-8036-7841068DD190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0346D28-A472-4657-8036-7841068DD190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0346D28-A472-4657-8036-7841068DD190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0346D28-A472-4657-8036-7841068DD190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009AE632-8B3E-47DF-A397-3CD01603F61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009AE632-8B3E-47DF-A397-3CD01603F61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009AE632-8B3E-47DF-A397-3CD01603F61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009AE632-8B3E-47DF-A397-3CD01603F61E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
